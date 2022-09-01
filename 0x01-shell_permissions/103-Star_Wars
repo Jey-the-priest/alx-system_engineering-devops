@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet towel.blinkenlights.nl (no chmod, type as is)
+echo 'chown --from=guillaume betty hello'
